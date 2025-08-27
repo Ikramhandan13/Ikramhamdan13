@@ -1,6 +1,6 @@
 # Hello World I'm Ikram Hamdan👋
 
-![Banner](https://drive.google.com/uc?export=view&id=1EWPT4xC9stmatUT4vSzZ1Wg5qsQ4KoM0)
+![Banner](https://www.canva.com/design/DAGxQQCOLxs/cj7XEeUdplgOZYe9Bl7iMw/edit)
 
 Hi, I’m a passionate Informatics Engineering undergraduate at Universitas Hasanuddin. I’m deeply fascinated by the world of full-stack development and UI/UX design, always eager to push boundaries and explore the latest in web technologies. My goal is to become a skilled bug hunter, crafting secure, innovative solutions and uncovering vulnerabilities to make the digital world safer.
 
